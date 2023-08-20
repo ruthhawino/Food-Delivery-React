@@ -1,0 +1,28 @@
+.categories {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40%;
+    padding: 20px;
+    background-color: whitesmoke;
+  }
+  
+  .category {
+    font-size: 45px;
+    margin-right: 190px;
+  }
+  
+  .deliver {
+    color: red;
+  }
+.order-category {
+    margin-top: 10px;
+    text-align: center;
+    margin-left: 10%;
+    font-size: 20px;
+  }
+  
+  .order-category p7 {
+    color: black;
+    line-height: 1.5;
+  }

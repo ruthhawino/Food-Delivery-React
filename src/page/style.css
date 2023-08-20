@@ -1,0 +1,88 @@
+.page {
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 7%;
+  }
+  .page p {
+    color: red;
+    font-size: 48px;
+    margin-right: 43%;
+  }
+  .page span {
+    color: orange;
+    text-decoration: underline;
+  }
+  .body{
+    margin-right: 33%;
+    font-size: 126%;
+  }
+  .image {
+    margin-left: 57%;
+    margin-top: -9%;
+    width: 200px;
+  }
+.paragraph {
+    text-align: center;
+    margin-top: -8%;
+    margin-right: 37%;
+    font-size: 143%;
+   
+  }
+  .btn2 {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 6%;
+  }
+  .paragraph p {
+    color: black;
+    margin-top: 10px;
+  }
+  .play{
+    margin-left: 8%;
+    
+  }
+  .orders{
+    display: flex;
+    margin-top: 6%;
+    /* margin-left: 2%; */
+    border: 1px solid #ddd;
+    border-width: 40%;
+    background-color: whitesmoke;
+    border-radius: 5%;
+    gap: 20%;
+  }
+.delivery,
+.food,
+.free {
+  padding: 20px;
+  text-align: center;
+  margin: 20px;
+}
+.truck{
+  color: orange;
+  font-size: 190%;
+}
+.delivery h4,
+.food h5,
+.free h6 {
+  font-weight: bold;
+  color: black;
+}
+
+.delivery p4,
+.food p5,
+.free p7 {
+  color: black;
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px; 
+}

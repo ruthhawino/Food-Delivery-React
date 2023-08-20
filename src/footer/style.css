@@ -1,0 +1,64 @@
+.footer {
+    display: flex;
+    /* justify-content: space-around; */
+    background-color: lightsalmon;
+    color: white;
+    font-size: 170%;
+    width: 100%;
+    margin-bottom: -13%;
+  }
+  
+  .foodish {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .food {
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: red;
+  }
+  .h3{
+    color: red;
+  }
+  
+  .follow {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+  
+  .social-icons {
+    display: flex;
+    /* gap: 10px; */
+  }
+  
+  .social-icon {
+    color: white;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icon:hover {
+    color: #fca311;
+  }
+  
+  .footer1, .footer2, .footer3 {
+    flex: 1;
+    text-align: center;
+    font-size: 160%;
+    margin-right: 8%;
+  }
+  
+  h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 14px;
+    /* margin: 5px; */
+  }
+  .icon-container {
+    display: flex;
+    gap: 10px;
+    margin-left: 33%;
+}
